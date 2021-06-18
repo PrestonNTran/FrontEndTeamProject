@@ -6,10 +6,15 @@
     border-width:3px;
 
 }
+
 .contact {
-    vertical-align: bottom;
     height: 100%;
     border-style: solid;
     border-color: black;
     border-width:3px;
+    vertical-align:text-bottom;
+    padding-top: initial;
+}
+.content-body{
+
 }

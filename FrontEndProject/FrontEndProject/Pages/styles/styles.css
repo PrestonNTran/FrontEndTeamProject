@@ -1,0 +1,35 @@
+body {
+  height: 100vh;
+}
+
+.nav {
+  height: 8vh;
+}
+
+.nav .row {
+  height: 100%;
+}
+
+.nav .row .button {
+  height: 100%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.nav .row .button a {
+  display: inline-block;
+  height: 100%;
+}
+
+.content {
+  height: 92vh;
+}
+
+.content .row {
+  height: 100%;
+}
+
+.content .row div {
+  padding: 1%;
+  height: 100%;
+}

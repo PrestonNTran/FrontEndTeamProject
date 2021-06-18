@@ -41,12 +41,8 @@ body {
 .content {
   height: 92%;
 }
-
 .content .row {
   height: 100%;
-}
-
-.content .row div {
   padding: 1%;
   height: 100%;
   background-color: #4C566A;

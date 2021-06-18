@@ -1,16 +1,53 @@
-.map img {
-  height: 25%;
-  width: 25%;
-}
-
 .notice div {
   text-align: center;
+  display: inline-block;
 }
 
 .notice div div {
-  width: max-content;
+  min-width: min-content;
+  max-width: max-content;
   background-color: #fc000091;
   padding: 1%;
   border: 0;
   border-radius: 10px;
+}
+
+.notice {
+  padding-bottom: 5%;
+}
+
+.description {
+  font-size: 110%;
+  padding-top: 1%;
+}
+
+.location {
+  padding-top: 5%;
+}
+
+.phone {
+  padding-top: 5%;
+}
+
+.map {
+  padding-top: 1%;
+}
+
+.map img {
+  height: 60%;
+  width: 60%;
+}
+
+.header {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.subHeader {
+  font-weight: bolder;
+  font-size: 125%;
+}
+
+.text {
+  font-size: 110%;
 }

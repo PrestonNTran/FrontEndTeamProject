@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.space {
+    padding-top:2%;
+}
+.extra{
+    padding-top:1%;
+}
+
+.headcolor {
+    color:#b3c9fa;
+}
+.border img {
+    border-style:solid;
+    border-color:#2E3440;
+    border-width:3px;
+}

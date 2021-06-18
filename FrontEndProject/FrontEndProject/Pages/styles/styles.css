@@ -45,7 +45,7 @@ body {
 }
 
 .content {
-  height: 91%;
+  height: 90%;
   display: block;
   font-family: Calibri;
   font-size: large;
@@ -53,11 +53,11 @@ body {
 
 .content .xrow {
   height: 100%;
-  margin-top: 40px;
 }
 
 .content .xcol {
   height: 100%;
+  margin-top: 1%;
   padding: 1%;
   background-color: #4C566A;
 }

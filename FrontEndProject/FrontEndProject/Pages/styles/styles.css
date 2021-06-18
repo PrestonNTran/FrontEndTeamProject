@@ -50,6 +50,7 @@ body {
 
 .content .row {
   height: 100%;
+  margin-top: 40px;
 }
 
 .content .row .working {

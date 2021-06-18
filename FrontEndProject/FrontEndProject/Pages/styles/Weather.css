@@ -1,0 +1,18 @@
+﻿.content .yrow{
+    margin-top: 1%;
+    margin-bottom:40px;
+}
+
+.content .row .ycol {
+    background-color: #2e34408e;
+    width: 100%;
+    padding: 1%;
+    border: 0;
+    border-radius: 5px;
+    font-family: Consolas;
+    font-weight: bold;
+}
+
+.content img {
+    border: 5px solid #2E3440;
+}

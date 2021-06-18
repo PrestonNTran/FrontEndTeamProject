@@ -1,3 +1,16 @@
-.content {
-  
+.map img {
+  height: 25%;
+  width: 25%;
+}
+
+.notice div {
+  text-align: center;
+}
+
+.notice div div {
+  width: max-content;
+  background-color: #fc000091;
+  padding: 1%;
+  border: 0;
+  border-radius: 10px;
 }

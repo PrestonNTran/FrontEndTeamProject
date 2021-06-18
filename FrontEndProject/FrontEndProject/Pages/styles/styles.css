@@ -6,7 +6,7 @@ body {
 
 .nav {
   height: max-content;
-  background-color: #2E3440;
+  background-color:  ;
 }
 
 .nav .row {
@@ -44,7 +44,7 @@ body {
   text-decoration: none;
 }
 
-.content {
+.content { 
   height: 90%;
   display: block;
   font-family: Calibri;

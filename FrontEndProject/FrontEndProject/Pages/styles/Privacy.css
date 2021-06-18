@@ -1,20 +1,24 @@
 ﻿body {
 }
-.LawyerSpeak {
-    border-style: solid;
-    border-color:black;
-    border-width:3px;
+.links {
 
+    width:min-content;
 }
-
+.parent-contact{
+    align-content:center;
+}
 .contact {
-    height: 100%;
-    border-style: solid;
-    border-color: black;
-    border-width:3px;
-    vertical-align:text-bottom;
-    padding-top: initial;
+    vertical-align: text-bottom;
+    position: absolute; 
+    bottom: 1%;
+    width: 100%;
+    font-size: 150%;
+    height: max-content;
+    color:white;
 }
-.content-body{
-
+h3{
+    color:#b3c9fa;
+}
+.LegalityTerms{
+    padding:1%;
 }
